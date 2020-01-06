@@ -7,4 +7,4 @@ This is an implementation of the Breadth First Search  algorithm in a binary tre
 
 This app was built for the purpose of sharing my knowledge on it, this is explained in my personal Blog.
  
-You can check out this post [here](https://quijosakaf.com/public/blog//graficando_un_arbol_binario_en_javascript).
+You can check out this post [here](https://quijosakaf.com/public/blog/graficando-un-arbol-binario-en-javascript).
